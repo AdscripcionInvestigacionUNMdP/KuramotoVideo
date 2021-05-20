@@ -1,0 +1,389 @@
+# Grace project file
+#
+version 50125
+page size 525, 525
+page scroll 5%
+page inout 5%
+link page off
+map font 8 to "Courier", "Courier"
+map font 10 to "Courier-Bold", "Courier-Bold"
+map font 11 to "Courier-BoldOblique", "Courier-BoldOblique"
+map font 9 to "Courier-Oblique", "Courier-Oblique"
+map font 14 to "Courier-Regular", "Courier-Regular"
+map font 15 to "Dingbats-Regular", "Dingbats-Regular"
+map font 4 to "Helvetica", "Helvetica"
+map font 6 to "Helvetica-Bold", "Helvetica-Bold"
+map font 7 to "Helvetica-BoldOblique", "Helvetica-BoldOblique"
+map font 5 to "Helvetica-Oblique", "Helvetica-Oblique"
+map font 20 to "NimbusMonoL-Bold", "NimbusMonoL-Bold"
+map font 21 to "NimbusMonoL-BoldOblique", "NimbusMonoL-BoldOblique"
+map font 22 to "NimbusMonoL-Regular", "NimbusMonoL-Regular"
+map font 23 to "NimbusMonoL-RegularOblique", "NimbusMonoL-RegularOblique"
+map font 24 to "NimbusRomanNo9L-Medium", "NimbusRomanNo9L-Medium"
+map font 25 to "NimbusRomanNo9L-MediumItalic", "NimbusRomanNo9L-MediumItalic"
+map font 26 to "NimbusRomanNo9L-Regular", "NimbusRomanNo9L-Regular"
+map font 27 to "NimbusRomanNo9L-RegularItalic", "NimbusRomanNo9L-RegularItalic"
+map font 28 to "NimbusSansL-Bold", "NimbusSansL-Bold"
+map font 29 to "NimbusSansL-BoldCondensed", "NimbusSansL-BoldCondensed"
+map font 30 to "NimbusSansL-BoldCondensedItalic", "NimbusSansL-BoldCondensedItalic"
+map font 31 to "NimbusSansL-BoldItalic", "NimbusSansL-BoldItalic"
+map font 32 to "NimbusSansL-Regular", "NimbusSansL-Regular"
+map font 33 to "NimbusSansL-RegularCondensed", "NimbusSansL-RegularCondensed"
+map font 34 to "NimbusSansL-RegularCondensedItalic", "NimbusSansL-RegularCondensedItalic"
+map font 35 to "NimbusSansL-RegularItalic", "NimbusSansL-RegularItalic"
+map font 36 to "StandardSymbolsL-Regular", "StandardSymbolsL-Regular"
+map font 12 to "Symbol", "Symbol"
+map font 2 to "Times-Bold", "Times-Bold"
+map font 3 to "Times-BoldItalic", "Times-BoldItalic"
+map font 1 to "Times-Italic", "Times-Italic"
+map font 0 to "Times-Roman", "Times-Roman"
+map font 42 to "URWBookmanL-DemiBold", "URWBookmanL-DemiBold"
+map font 43 to "URWBookmanL-DemiBoldItalic", "URWBookmanL-DemiBoldItalic"
+map font 44 to "URWBookmanL-Light", "URWBookmanL-Light"
+map font 45 to "URWBookmanL-LightItalic", "URWBookmanL-LightItalic"
+map font 46 to "URWChanceryL-MediumItalic", "URWChanceryL-MediumItalic"
+map font 47 to "URWGothicL-Book", "URWGothicL-Book"
+map font 48 to "URWGothicL-BookOblique", "URWGothicL-BookOblique"
+map font 49 to "URWGothicL-Demi", "URWGothicL-Demi"
+map font 50 to "URWGothicL-DemiOblique", "URWGothicL-DemiOblique"
+map font 51 to "URWPalladioL-Bold", "URWPalladioL-Bold"
+map font 52 to "URWPalladioL-BoldItalic", "URWPalladioL-BoldItalic"
+map font 53 to "URWPalladioL-Italic", "URWPalladioL-Italic"
+map font 54 to "URWPalladioL-Roman", "URWPalladioL-Roman"
+map font 55 to "Utopia-Bold", "Utopia-Bold"
+map font 56 to "Utopia-BoldItalic", "Utopia-BoldItalic"
+map font 57 to "Utopia-Italic", "Utopia-Italic"
+map font 58 to "Utopia-Regular", "Utopia-Regular"
+map font 13 to "ZapfDingbats", "ZapfDingbats"
+map color 0 to (255, 255, 255), "white"
+map color 1 to (0, 0, 0), "black"
+map color 2 to (0, 0, 255), "G01"
+map color 3 to (0, 12, 255), "G02"
+map color 4 to (0, 25, 255), "G03"
+map color 5 to (0, 38, 255), "G04"
+map color 6 to (0, 51, 255), "G05"
+map color 7 to (0, 63, 255), "G06"
+map color 8 to (0, 76, 255), "G07"
+map color 9 to (0, 89, 255), "G08"
+map color 10 to (0, 102, 255), "G09"
+map color 11 to (0, 114, 255), "G10"
+map color 12 to (0, 127, 255), "G11"
+map color 13 to (0, 140, 255), "G12"
+map color 14 to (0, 153, 255), "G13"
+map color 15 to (0, 165, 255), "G14"
+map color 16 to (0, 178, 255), "G15"
+map color 17 to (0, 191, 255), "G16"
+map color 18 to (0, 204, 255), "G17"
+map color 19 to (0, 216, 255), "G18"
+map color 20 to (0, 229, 255), "G19"
+map color 21 to (0, 255, 255), "G20"
+map color 22 to (0, 255, 242), "G21"
+map color 23 to (0, 255, 229), "G22"
+map color 24 to (0, 255, 216), "G23"
+map color 25 to (0, 255, 204), "G24"
+map color 26 to (0, 255, 191), "G25"
+map color 27 to (0, 255, 178), "G26"
+map color 28 to (0, 255, 165), "G27"
+map color 29 to (0, 255, 153), "G28"
+map color 30 to (0, 255, 140), "G29"
+map color 31 to (0, 255, 127), "G30"
+map color 32 to (0, 255, 114), "G31"
+map color 33 to (0, 255, 102), "G32"
+map color 34 to (0, 255, 89), "G33"
+map color 35 to (0, 255, 76), "G34"
+map color 36 to (0, 255, 63), "G35"
+map color 37 to (0, 255, 51), "G36"
+map color 38 to (0, 255, 38), "G37"
+map color 39 to (0, 255, 25), "G38"
+map color 40 to (0, 255, 0), "G39"
+map color 41 to (12, 255, 0), "G40"
+map color 42 to (25, 255, 0), "G41"
+map color 43 to (38, 255, 0), "G42"
+map color 44 to (51, 255, 0), "G43"
+map color 45 to (63, 255, 0), "G44"
+map color 46 to (76, 255, 0), "G45"
+map color 47 to (89, 255, 0), "G46"
+map color 48 to (102, 255, 0), "G47"
+map color 49 to (114, 255, 0), "G48"
+map color 50 to (127, 255, 0), "G49"
+map color 51 to (140, 255, 0), "G50"
+map color 52 to (153, 255, 0), "G51"
+map color 53 to (165, 255, 0), "G52"
+map color 54 to (178, 255, 0), "G53"
+map color 55 to (191, 255, 0), "G54"
+map color 56 to (204, 255, 0), "G55"
+map color 57 to (216, 255, 0), "G56"
+map color 58 to (229, 255, 0), "G57"
+map color 59 to (255, 255, 0), "G58"
+map color 60 to (255, 248, 0), "G59"
+map color 61 to (255, 242, 0), "G60"
+map color 62 to (255, 235, 0), "G61"
+map color 63 to (255, 229, 0), "G62"
+map color 64 to (255, 223, 0), "G63"
+map color 65 to (255, 216, 0), "G64"
+map color 66 to (255, 210, 0), "G65"
+map color 67 to (255, 204, 0), "G66"
+map color 68 to (255, 197, 0), "G67"
+map color 69 to (255, 191, 0), "G68"
+map color 70 to (255, 185, 0), "G69"
+map color 71 to (255, 178, 0), "G70"
+map color 72 to (255, 172, 0), "G71"
+map color 73 to (255, 166, 0), "G72"
+map color 74 to (255, 159, 0), "G73"
+map color 75 to (255, 153, 0), "G74"
+map color 76 to (255, 147, 0), "G75"
+map color 77 to (255, 140, 0), "G76"
+map color 78 to (255, 128, 0), "G77"
+map color 79 to (255, 121, 0), "G78"
+map color 80 to (255, 115, 0), "G79"
+map color 81 to (255, 108, 0), "G80"
+map color 82 to (255, 102, 0), "G81"
+map color 83 to (255, 96, 0), "G82"
+map color 84 to (255, 89, 0), "G83"
+map color 85 to (255, 83, 0), "G84"
+map color 86 to (255, 76, 0), "G85"
+map color 87 to (255, 70, 0), "G86"
+map color 88 to (255, 64, 0), "G87"
+map color 89 to (255, 57, 0), "G88"
+map color 90 to (255, 51, 0), "G89"
+map color 91 to (255, 44, 0), "G90"
+map color 92 to (255, 38, 0), "G91"
+map color 93 to (255, 32, 0), "G92"
+map color 94 to (255, 25, 0), "G93"
+map color 95 to (255, 19, 0), "G94"
+map color 96 to (255, 12, 0), "G95"
+map color 97 to (255, 0, 0), "G96"
+map color 98 to (255, 0, 6), "G97"
+map color 99 to (255, 0, 12), "G98"
+map color 100 to (255, 0, 19), "G99"
+map color 101 to (255, 0, 25), "G100"
+map color 102 to (255, 0, 31), "G101"
+map color 103 to (255, 0, 38), "G102"
+map color 104 to (255, 0, 44), "G103"
+map color 105 to (255, 0, 50), "G104"
+map color 106 to (255, 0, 57), "G105"
+map color 107 to (255, 0, 63), "G106"
+map color 108 to (255, 0, 69), "G107"
+map color 109 to (255, 0, 76), "G108"
+map color 110 to (255, 0, 82), "G109"
+map color 111 to (255, 0, 88), "G110"
+map color 112 to (255, 0, 95), "G111"
+map color 113 to (255, 0, 101), "G112"
+map color 114 to (255, 0, 107), "G113"
+map color 115 to (255, 0, 114), "G114"
+map color 116 to (255, 0, 127), "G115"
+map color 117 to (255, 0, 127), "G116"
+map color 118 to (255, 0, 133), "G117"
+map color 119 to (255, 0, 139), "G118"
+map color 120 to (255, 0, 146), "G119"
+map color 121 to (255, 0, 152), "G120"
+map color 122 to (255, 0, 159), "G121"
+map color 123 to (255, 0, 165), "G122"
+map color 124 to (255, 0, 171), "G123"
+map color 125 to (255, 0, 178), "G124"
+map color 126 to (255, 0, 184), "G125"
+map color 127 to (255, 0, 191), "G126"
+map color 128 to (255, 0, 197), "G127"
+map color 129 to (255, 0, 203), "G128"
+map color 130 to (255, 0, 210), "G129"
+map color 131 to (255, 0, 216), "G130"
+map color 132 to (255, 0, 223), "G131"
+map color 133 to (255, 0, 229), "G132"
+map color 134 to (255, 0, 235), "G133"
+map color 135 to (255, 0, 242), "G134"
+map color 136 to (255, 0, 255), "G135"
+map color 137 to (248, 0, 255), "G136"
+map color 138 to (242, 0, 255), "G137"
+map color 139 to (235, 0, 255), "G138"
+map color 140 to (229, 0, 255), "G139"
+map color 141 to (223, 0, 255), "G140"
+map color 142 to (216, 0, 255), "G141"
+map color 143 to (210, 0, 255), "G142"
+map color 144 to (203, 0, 255), "G143"
+map color 145 to (197, 0, 255), "G144"
+map color 146 to (191, 0, 255), "G145"
+map color 147 to (184, 0, 255), "G146"
+map color 148 to (178, 0, 255), "G147"
+map color 149 to (171, 0, 255), "G148"
+map color 150 to (165, 0, 255), "G149"
+map color 151 to (159, 0, 255), "G150"
+map color 152 to (152, 0, 255), "G151"
+map color 153 to (146, 0, 255), "G152"
+map color 154 to (139, 0, 255), "G153"
+map color 155 to (127, 0, 255), "G154"
+map color 156 to (120, 0, 255), "G155"
+map color 157 to (114, 0, 255), "G156"
+map color 158 to (107, 0, 255), "G157"
+map color 159 to (101, 0, 255), "G158"
+map color 160 to (95, 0, 255), "G159"
+map color 161 to (88, 0, 255), "G160"
+map color 162 to (82, 0, 255), "G161"
+map color 163 to (76, 0, 255), "G162"
+map color 164 to (69, 0, 255), "G163"
+map color 165 to (63, 0, 255), "G164"
+map color 166 to (57, 0, 255), "G165"
+map color 167 to (50, 0, 255), "G166"
+map color 168 to (44, 0, 255), "G167"
+map color 169 to (38, 0, 255), "G168"
+map color 170 to (31, 0, 255), "G169"
+map color 171 to (25, 0, 255), "G170"
+map color 172 to (19, 0, 255), "G171"
+map color 173 to (12, 0, 255), "G172"
+reference date 0
+date wrap off
+date wrap year 1950
+default linewidth 1.0
+default linestyle 1
+default color 1
+default pattern 1
+default font 0
+default char size 1.000000
+default symbol size 1.000000
+default sformat "%.8g"
+background color 0
+page background fill on
+timestamp off
+timestamp 0.03, 0.03
+timestamp color 1
+timestamp rot 0
+timestamp font 0
+timestamp char size 1.000000
+timestamp def "Tue May 18 01:13:40 2021"
+r0 off
+link r0 to g0
+r0 type above
+r0 linestyle 1
+r0 linewidth 1.0
+r0 color 1
+r0 line 0, 0, 0, 0
+r1 off
+link r1 to g0
+r1 type above
+r1 linestyle 1
+r1 linewidth 1.0
+r1 color 1
+r1 line 0, 0, 0, 0
+r2 off
+link r2 to g0
+r2 type above
+r2 linestyle 1
+r2 linewidth 1.0
+r2 color 1
+r2 line 0, 0, 0, 0
+r3 off
+link r3 to g0
+r3 type above
+r3 linestyle 1
+r3 linewidth 1.0
+r3 color 1
+r3 line 0, 0, 0, 0
+r4 off
+link r4 to g0
+r4 type above
+r4 linestyle 1
+r4 linewidth 1.0
+r4 color 1
+r4 line 0, 0, 0, 0
+g0 on
+g0 hidden false
+g0 type XY
+g0 stacked false
+g0 bar hgap 0.000000
+g0 fixedpoint off
+g0 fixedpoint type 0
+g0 fixedpoint xy 0.000000, 0.000000
+g0 fixedpoint format general general
+g0 fixedpoint prec 6, 6
+with g0
+    world 0, 0, 40, 40
+    stack world 0, 0, 0, 0
+    znorm 1
+    view 0.150000, 0.150000, 1.050000, 1.050000
+    title ""
+    title font 0
+    title size 1.500000
+    title color 1
+    subtitle ""
+    subtitle font 0
+    subtitle size 1.000000
+    subtitle color 1
+    xaxes scale Normal
+    yaxes scale Normal
+    xaxes invert off
+    yaxes invert off
+    xaxis  off
+    yaxis  off
+    altxaxis  off
+    altyaxis  off
+    legend on
+    legend loctype view
+    legend 0.85, 0.8
+    legend box color 1
+    legend box pattern 1
+    legend box linewidth 1.0
+    legend box linestyle 1
+    legend box fill color 0
+    legend box fill pattern 1
+    legend font 0
+    legend char size 1.000000
+    legend color 1
+    legend length 4
+    legend vgap 1
+    legend hgap 1
+    legend invert false
+    frame type 0
+    frame linestyle 1
+    frame linewidth 1.0
+    frame color 1
+    frame pattern 0
+    frame background color 0
+    frame background pattern 0
+    s0 hidden false
+    s0 type xycolor
+    s0 symbol 2
+    s0 symbol size 1.700000
+    s0 symbol color 1
+    s0 symbol pattern 1
+    s0 symbol fill color 1
+    s0 symbol fill pattern 1
+    s0 symbol linewidth 1.0
+    s0 symbol linestyle 1
+    s0 symbol char 65
+    s0 symbol char font 0
+    s0 symbol skip 0
+    s0 line type 0
+    s0 line linestyle 1
+    s0 line linewidth 1.0
+    s0 line color 1
+    s0 line pattern 1
+    s0 baseline type 0
+    s0 baseline off
+    s0 dropline off
+    s0 fill type 0
+    s0 fill rule 0
+    s0 fill color 1
+    s0 fill pattern 1
+    s0 avalue off
+    s0 avalue type 2
+    s0 avalue char size 1.000000
+    s0 avalue font 0
+    s0 avalue color 1
+    s0 avalue rot 0
+    s0 avalue format general
+    s0 avalue prec 3
+    s0 avalue prepend ""
+    s0 avalue append ""
+    s0 avalue offset 0.000000 , 0.000000
+    s0 errorbar on
+    s0 errorbar place both
+    s0 errorbar color 1
+    s0 errorbar pattern 1
+    s0 errorbar size 1.000000
+    s0 errorbar linewidth 1.0
+    s0 errorbar linestyle 1
+    s0 errorbar riser linewidth 1.0
+    s0 errorbar riser linestyle 1
+    s0 errorbar riser clip off
+    s0 errorbar riser clip length 0.100000
+    s0 comment "/home/lvaldez/Lucas/Kuramoto/Pelicula/Frecuencias/sigma=0.10/K15.0_B09.0/R01/FrecSinc_000001.dat"
+    s0 legend  ""
